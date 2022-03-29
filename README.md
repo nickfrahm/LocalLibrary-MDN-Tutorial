@@ -21,3 +21,11 @@ up was easy since I've done that before, but haven't really looked at Mongoose +
 schema/modeling. The tutorial has you build a very basic schema for book genres,
 so I did that. Not very hard. Looking forward to writing my own schemas/models
 in other apps.
+
+# Part 3
+
+Walked through setting up the skeletons for the controllers for this
+application. I now see one common way MVC apps can be set up in Node.js--by
+handling everything in the controller, then using exports.{name} to import it
+directly in the route file it needs to be in. This keeps code cleaner and easier
+to read.
