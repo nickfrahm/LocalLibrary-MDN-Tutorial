@@ -36,3 +36,7 @@ Read through and did the first half of part 5 for rendering the views leveraging
 the routes/controllers we have set up. Also leaarned a little about the async
 npm library and saw a few use cases for it when getting data for rendering these
 views.
+
+# Day 5
+
+Finished part 5, not much else to say about it.
